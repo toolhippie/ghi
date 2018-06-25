@@ -9,4 +9,5 @@ ENTRYPOINT ["/usr/bin/ghi"]
 
 RUN apk update && \
   apk upgrade && \
-  gem install ghi
+  gem install ghi && \
+  rm -rf /var/cache/apk/*
