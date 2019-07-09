@@ -1,6 +1,6 @@
-# Ghi
+# ghi
 
-[![Build Status](https://github.dronehippie.de/api/badges/toolhippie/ghi/status.svg)](https://github.dronehippie.de/toolhippie/ghi)
+[![Build Status](https://cloud.drone.io/api/badges/toolhippie/ghi/status.svg)](https://cloud.drone.io/toolhippie/ghi)
 [![](https://images.microbadger.com/badges/image/toolhippie/ghi:latest.svg)](https://microbadger.com/images/toolhippie/ghi:latest "Get your own image badge on microbadger.com")
 
 TBD
