@@ -1,0 +1,19 @@
+image: toolhippie/ghi:latest
+manifests:
+  -
+    image: toolhippie/ghi:amd64
+    platform:
+      architecture: amd64
+      os: linux
+  -
+    image: toolhippie/ghi:arm64v8
+    platform:
+      architecture: arm64
+      os: linux
+      variant: v8
+  -
+    image: toolhippie/ghi:arm32v6
+    platform:
+      architecture: arm
+      os: linux
+      variant: v6
