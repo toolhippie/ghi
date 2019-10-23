@@ -3,7 +3,10 @@
 [![Build Status](https://cloud.drone.io/api/badges/toolhippie/ghi/status.svg)](https://cloud.drone.io/toolhippie/ghi)
 [![](https://images.microbadger.com/badges/image/toolhippie/ghi:latest.svg)](https://microbadger.com/images/toolhippie/ghi:latest "Get your own image badge on microbadger.com")
 
-TBD
+**All these images are used for various scriptings, it's possible that any of these tools are updated randomly**
+
+* [GitHub](https://github.com/toolhippie/ghi)
+* [Upstream](https://github.com/stephencelis/ghi)
 
 
 ## Versions
