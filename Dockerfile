@@ -1,6 +1,5 @@
 FROM webhippie/ruby:latest
-
-ENTRYPOINT ["/usr/bin/ghi"]
+ENTRYPOINT [""]
 
 # renovate: datasource=rubygems depName=ghi
 ENV GHI_VERSION=1.2.0
