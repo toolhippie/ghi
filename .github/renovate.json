@@ -3,10 +3,12 @@
     "extends": [
         "github>webhippie/renovate:docker"
     ],
-    "packageRules": [{
-        "groupName": "ghi packages",
-        "matchDatasources": [
-            "rubygems"
-        ]
-    }]
+    "packageRules": [
+        {
+            "groupName": "ghi packages",
+            "matchDatasources": [
+                "rubygems"
+            ]
+        }
+    ]
 }
