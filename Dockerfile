@@ -1,4 +1,4 @@
-FROM ghcr.io/dockhippie/ruby:latest@sha256:4b7833e576684e40f4c8f3a483c2f77e184f649c11ad6091884c646d6cb22c95
+FROM ghcr.io/dockhippie/ruby:latest@sha256:a759fbd186e0278a955095cec8960e4bdebd19dfa74991fdea1c4df3f30373e6
 ENTRYPOINT [""]
 
 # renovate: datasource=rubygems depName=ghi
